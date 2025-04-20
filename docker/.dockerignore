@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+
+dist
+build
+
+.DS_Store
+
+.env
+.env.local
+.env.production
+
+.git
+.gitignore
+
+Dockerfile
+docker-compose.yml
